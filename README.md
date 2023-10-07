@@ -14,4 +14,4 @@ flutter build apk --obfuscate --split-debug-info="$HOME"/debuginfo
 
 ## Demo :
 
-<video src='https://github.com/gnassro/test_deobfuscate/blob/main/assets/test-case.mp4' width=180/>
+<img src="https://github.com/gnassro/test_deobfuscate/blob/main/assets/test-case.gif" height="400"/>
